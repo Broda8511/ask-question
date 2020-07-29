@@ -150,8 +150,8 @@ h3 {
     }
 } 
 
-.list {
-    font-size: 10px;
+ul {
+    padding: 0;
 }
 
 li {
@@ -170,6 +170,8 @@ li {
 
     li {
         font-size: 10px;
+        line-height: 1.1;
+        padding: 15px;
     }
 } 
 
